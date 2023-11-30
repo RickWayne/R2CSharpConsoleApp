@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "R2ConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "moses.Snap.gdb"
+    }
+  }
+}

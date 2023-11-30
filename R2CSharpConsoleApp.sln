@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RUSLE2", "RUSLE2\RUSLE2.csproj", "{B77D630C-64D6-44C8-880D-DDD4EF63F933}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R2ConsoleApp", "R2ConsoleApp\R2ConsoleApp.csproj", "{AAF0DFDE-DBA4-4525-9F71-F3924A699088}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B77D630C-64D6-44C8-880D-DDD4EF63F933}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B77D630C-64D6-44C8-880D-DDD4EF63F933}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B77D630C-64D6-44C8-880D-DDD4EF63F933}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B77D630C-64D6-44C8-880D-DDD4EF63F933}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAF0DFDE-DBA4-4525-9F71-F3924A699088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAF0DFDE-DBA4-4525-9F71-F3924A699088}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAF0DFDE-DBA4-4525-9F71-F3924A699088}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAF0DFDE-DBA4-4525-9F71-F3924A699088}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00CA4150-A14B-4941-B676-B8CE96AF3E9C}
+	EndGlobalSection
+EndGlobal
